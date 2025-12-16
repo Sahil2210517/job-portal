@@ -1,13 +1,13 @@
 # Job Portal App (MERN Stack)
 
-A comprehensive job portal application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to browse job listings, apply for jobs, and manage applications seamlessly for both job seekers and employers.
+A comprehensive job portal application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows job seekers to browse job listings, apply for jobs, and manage applications, while employers can post jobs and manage received applications.
 
 ---
 
 ## Features
 
 - User Authentication  
-  Secure authentication using JSON Web Tokens (JWT) for both job seekers and employers.
+  Secure authentication using JSON Web Tokens (JWT) for job seekers and employers.
 
 - Job Listings  
   Browse and search job listings stored in MongoDB.
@@ -16,7 +16,7 @@ A comprehensive job portal application built using the MERN stack (MongoDB, Expr
   Job seekers can apply for jobs and track applications, while employers can view and manage received applications.
 
 - Image Upload Support  
-  Profile images and assets are managed using Cloudinary.
+  Profile images and other assets are managed using Cloudinary.
 
 - Responsive Design  
   Fully responsive UI for desktop, tablet, and mobile devices.
@@ -37,7 +37,7 @@ A comprehensive job portal application built using the MERN stack (MongoDB, Expr
 
 ### Authentication
 - JWT (JSON Web Tokens)  
-- Bcrypt (password hashing)
+- Bcrypt (for password hashing)
 
 ### Image Storage
 - Cloudinary
@@ -51,7 +51,7 @@ A comprehensive job portal application built using the MERN stack (MongoDB, Expr
 
 ## Getting Started
 
-Follow the steps below to run the project locally.
+Follow the steps below to set up the project locally.
 
 ---
 
@@ -68,4 +68,4 @@ Follow the steps below to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/harshgupta4114/job-portal
+git clone https://github.com/Sahil2210517/job-portal.git
